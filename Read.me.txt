@@ -1,0 +1,5 @@
+Steps to run the app
+1. copy or clone the entire Repository to any editor.
+2. run the command "npm install".
+3. run the command "npm start".
+4. launch localhost:8000 to view the app 
