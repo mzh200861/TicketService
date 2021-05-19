@@ -3,3 +3,4 @@ Steps to run the app
 2. run the command "npm install".
 3. run the command "npm start".
 4. launch localhost:8000 to view the app 
+5. For the analytics part in UI, only button is there to hit the rest API and the result will be shown in backend terminal console. 
